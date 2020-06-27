@@ -1,1 +1,1 @@
-# my Python project build with Codesculpor
+# My Python project build with Codesculpor
